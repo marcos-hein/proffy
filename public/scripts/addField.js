@@ -10,7 +10,7 @@ function cloneField() {
 
     fields.forEach(function (field) {
         // pega o field do momento e limpa
-        field.value = ''
+        field.value = ""
     })
 
     // diz onde será colocado
