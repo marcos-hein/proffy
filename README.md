@@ -14,13 +14,13 @@ O **Proffy** é uma plataforma de estudos online que conecta alunos e professore
 ---
 ### 💻️ Web 
 <div>
-   <img src="./public/images/Proffy _study.gif" width="500px">
-   <img src="./public/images/Proffy _give_classes.gif" width="500px">
+   <img src="./public/images/Proffy _study.gif" width="400px">
+   <img src="./public/images/Proffy _give_classes.gif" width="400px">
 </div>
 
 ---
 
-###📱️ Responsividade
+### 📱️ Responsividade
 <div>
    <img src="./public/images/proffy_web1.png" width="180">
    <img src="./public/images/proffy_web2.png" width="180">
