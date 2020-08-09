@@ -7,7 +7,8 @@ function execute(db) {
             name TEXT,
             avatar TEXT,
             whatsapp TEXT,
-            bio TEXT
+            bio TEXT,
+            freeClass TEXT
         );
 
         CREATE TABLE IF NOT EXISTS classes (

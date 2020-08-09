@@ -5,12 +5,14 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
             name,
             avatar,
             whatsapp,
-            bio
+            bio,
+            freeClass
         ) VALUES (
             "${proffyValue.name}",
             "${proffyValue.avatar}",
             "${proffyValue.whatsapp}",
-            "${proffyValue.bio}"
+            "${proffyValue.bio}",
+            "${proffyValue.freeClass}"
         );
     `)
 

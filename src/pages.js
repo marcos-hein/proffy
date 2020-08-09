@@ -60,7 +60,8 @@ async function saveClasses(req, res) {
         name: req.body.name,
         avatar: req.body.avatar,
         whatsapp: req.body.whatsapp,
-        bio: req.body.bio
+        bio: req.body.bio,
+        freeClass: req.body.freeClass
     }  
 
     const classValue = {

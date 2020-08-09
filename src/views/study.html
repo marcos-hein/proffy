@@ -9,10 +9,11 @@
     <link rel="stylesheet" href="/styles/main.css">
     <link rel="stylesheet" href="/styles/partials/header.css">
     <link rel="stylesheet" href="/styles/partials/forms.css">
+    <link rel="stylesheet" href="/styles/partials/modal.css">
     <link rel="stylesheet" href="/styles/partials/page-study.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
 </head>
 <body id="page-study">
 
@@ -90,7 +91,12 @@
                             <div>
                                 <strong>{{ proffy.name }}</strong>
                                 <span>{{ proffy.subject }}</span>
+                                <button class="experimental-class" id="{{ proffy.freeClass }}">
+                                    Aula experimental
+                                </button>
+
                             </div>
+                            
                         </header>
                     
                         <p>{{ proffy.bio }}</p>
@@ -111,5 +117,17 @@
 
     </div>
 
+    <div class="modal-overlay">
+        <div class="modal">
+            <a class="close-modal">
+                <i class="material-icons">close</i>
+            </a>
+
+            <div class="modal-content">
+                <iframe src="" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+    <script src="/scripts/modal.js"></script>
 </body>
 </html>
