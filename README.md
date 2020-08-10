@@ -50,9 +50,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias.
 ### Autor
 ---
 
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/60493029?s=460&u=9aa39eaf9b1a95b7a0b44be821e2bfe920296841&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Vinicius Hein</b></sub> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat"></a>
+ <a href="https://www.linkedin.com/in/vinicius-hein/"></a><img style="border-radius: 50%" src="https://avatars1.githubusercontent.com/u/60493029?s=460&u=9aa39eaf9b1a95b7a0b44be821e2bfe920296841&v=4" width="100px;" alt=""/></a>
+ <sub><b>Vinicius Hein</b></sub>
 
 
 Desenvolvido por Vinicius Hein 👋🏽 Entre em contato!
