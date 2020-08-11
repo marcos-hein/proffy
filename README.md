@@ -7,20 +7,31 @@
 
 ---
 
+## 📄️ Indice
+- [Sobre](##-📖️-Sobre)
+- [Resultado Web](##-💻️-Resultado-Web )
+- [Resultado Mobile](##-📱️-Resultado-Mobile)
+- [Como Baixar](##-⬇️-Como-Baixar)
+- [Tecnologias utilizadas](##-🚀️-Tecnologias-utilizadas)
+- [Autor](###-🙋‍♂️️-Autor)
+
+---
+
 ## 📖️ Sobre
 
 O **Proffy** é uma plataforma de estudos online que conecta alunos e professores! Esta aplicação foi desenvolvida dentro da **Next Level Week** da RocketSeat.
 
 ---
-### 💻️ Web 
+
+## 💻️ Resultado Web 
 <div>
-   <img src="./public/images/Proffy _study.gif" width="400px">
-   <img src="./public/images/Proffy _give_classes.gif" width="400px">
+   <img src="./public/images/Proffy _study.gif" width="900px">
+   <img src="./public/images/Proffy _give_classes.gif" width="900px">
 </div>
 
 ---
 
-### 📱️ Responsividade
+## 📱️ Resultado Mobile
 <div>
    <img src="./public/images/proffy_web1.png" width="180">
    <img src="./public/images/proffy_web2.png" width="180">
@@ -29,7 +40,37 @@ O **Proffy** é uma plataforma de estudos online que conecta alunos e professore
 </div>
 
 ---
-Como usar
+### ⬇️ Como Baixar
+___
+#### ⚠️ Pré-requisitos
+
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🎲 Rodando a aplicação
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/vinicius-hein/proffy>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd proffy
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:5500 - acesse <http://localhost:5500>
+```
+
 ---
 
 ## 🚀️ Tecnologias utilizadas
@@ -44,7 +85,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias.
 - Nunjucks
 - SQLite
 ---
-### 🙋‍♂️️ Autor
+## 🙋‍♂️️ Autor
 
 
 <!-- <img src="https://avatars1.githubusercontent.com/u/60493029?s=460&u=9aa39eaf9b1a95b7a0b44be821e2bfe920296841&v=4" width="100px;" style="border-radius: 50%;" alt=""/> -->
