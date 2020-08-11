@@ -8,12 +8,12 @@
 ---
 
 ## 📄️ Indice
-- [Sobre](##-📖️-Sobre)
-- [Resultado Web](##-💻️-Resultado-Web )
-- [Resultado Mobile](##-📱️-Resultado-Mobile)
-- [Como Baixar](##-⬇️-Como-Baixar)
-- [Tecnologias utilizadas](##-🚀️-Tecnologias-utilizadas)
-- [Autor](###-🙋‍♂️️-Autor)
+- [Sobre](##-Sobre)
+- [Resultado Web](##-Resultado-Web )
+- [Resultado Mobile](##-Resultado-Mobile)
+- [Como Baixar](##-Como-Baixar)
+- [Tecnologias utilizadas](##-Tecnologias-utilizadas)
+- [Autor](###-Autor)
 
 ---
 
