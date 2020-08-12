@@ -1,6 +1,6 @@
 const modalOverlay = document.querySelector(".modal-overlay")
 const classes = document.querySelectorAll(".experimental-class")
-console.log("aqui")
+
 for (const classFree of classes)
     classFree.addEventListener("click", function() {
         const classId = classFree.getAttribute("id")

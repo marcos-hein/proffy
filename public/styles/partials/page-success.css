@@ -1,0 +1,36 @@
+#page-success {
+    background-color: var(--color-primary);
+    background-image: url(/images/success-background.svg);
+}
+
+#page-success #container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+        "success success success";
+
+    color: var(--color-text-in-primary);
+}
+
+.registration-completed {
+    grid-area: success;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+@media (max-width: 1100px) {
+    :root {
+        /* font-size: 40%; modificar as medidas rem */
+    }
+}
+
+@media (min-width: 1100px) {
+    #page-success #container {
+        max-width: 1100px;
+        /* display: ; */
+    }
+}
